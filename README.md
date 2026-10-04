@@ -1,4 +1,5 @@
 # BF1 Console Toggle
+搜了一下，没有什么简易工具可以关闭战地1的 console, 薯薯我每次都会误操作，所以所以做了个bat 来屏蔽掉console.
 
 A Windows batch script that temporarily changes existing `EnableConsole` values in Battlefield 1 settings and restores backed-up files after `bf1.exe` exits.
 
