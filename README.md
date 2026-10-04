@@ -6,7 +6,7 @@ A Windows batch script that temporarily changes existing `EnableConsole` values 
 ## 使用方法 / Usage
 
 1. Close Battlefield 1 before running the script. / 先退出游戏。
-2. Download `BF1_Console_Pure_Toggle.bat` and double-click it. / 下载并双击脚本。
+2. Download `BF1_Console_Pure_Toggle.bat` and double-click it. / 下载BF1_Console_Pure_Toggle.bat并双击脚本。
 3. Start Battlefield 1 and keep the script window open. / 启动游戏，保持脚本窗口打开。
 4. Exit the game normally; the script restores the original settings. / 正常退出游戏后恢复原始配置。
 
